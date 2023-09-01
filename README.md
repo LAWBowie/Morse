@@ -6,3 +6,4 @@ Part of [100 python projects in 100 days Udedmy Course](https://www.udemy.com/co
 
 ## My Socials
 Twitter:
+Linkedin: 
